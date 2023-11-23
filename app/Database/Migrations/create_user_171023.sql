@@ -1,0 +1,1 @@
+CREATE USER `piclin_test_sending`@`localhost` IDENTIFIED BY 'Uv95fLdBL36c6p';

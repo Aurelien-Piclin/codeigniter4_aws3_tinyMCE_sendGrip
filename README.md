@@ -1,3 +1,9 @@
+===============================================================================================================================================
+1) Run "composer install"
+2) You need to configure the file Constantes.php (app/Libraries/Constantes.php) with your SendGrid and AWS informations.
+3) You need to configure the DB (SQL Files in app/Database/).
+4) Start the CI server with "php spark serve" or set up your own configuration. 
+=================================================================================================================================================
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
